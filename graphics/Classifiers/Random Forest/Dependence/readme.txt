@@ -1,1 +1,1 @@
-gráficos entram aqui
+Put your figs in folders like these
